@@ -1,4 +1,4 @@
-# ThreeBoilerplate
+# r3f-boilerplate
 
 This is the boilerplate that I'm using for my React Three Fiber tutorials.
 
