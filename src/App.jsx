@@ -1,13 +1,6 @@
 import { Canvas, useThree } from '@react-three/fiber';
-import { useRef } from 'react';
-import {
-  OrbitControls,
-  GizmoHelper,
-  GizmoViewport,
-  useHelper,
-  Helper,
-} from '@react-three/drei';
-import { SpotLightHelper, Color } from 'three';
+import { OrbitControls, GizmoHelper, GizmoViewport } from '@react-three/drei';
+import { Color } from 'three';
 import { useControls } from 'leva';
 
 function UpdateSceneBackground() {
